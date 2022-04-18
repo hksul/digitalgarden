@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/bio-hacking-personal-report/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/bio-hacking-personal-report/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
