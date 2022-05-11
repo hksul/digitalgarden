@@ -12,6 +12,7 @@
 [[pages/Blood Test Result - Liver|Blood Test Result - Liver]]
 [[pages/Blood Test Result - Cholesterol|Blood Test Result - Cholesterol]]
 
+<div style="page-break-after: always;"></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -61,5 +62,9 @@
 
 </div></div>
 
+[[pages/Blood Test Result - Cholesterol|Blood Test Result - Cholesterol]]
 
+
+
+<div style="page-break-after: always;"></div>
 
