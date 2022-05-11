@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pages/blood-test-cholesterol-total-cholesterol-to-hdl-ratio/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-## TotalCholesterol-to-HDL Ratio
+### TotalCholesterol-to-HDL Ratio
 
 
 
