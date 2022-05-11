@@ -14,6 +14,3 @@
 
 
 
-![Blood Test Result - Liver](Blood%20Test%20Result%20-%20Liver.md)
-
-![Blood Test Result - Cholesterol](Blood%20Test%20Result%20-%20Cholesterol.md)
