@@ -9,8 +9,9 @@
 
 [[pages/Intro to Biohacking Presentation|Intro to Biohacking Presentation]]
 
-[[pages/Blood Test Result - Liver|Blood Test Result - Liver]]
-[[pages/Blood Test Result - Cholesterol|Blood Test Result - Cholesterol]]
+- Table of Contents
+	- [[pages/Blood Test Result - Liver|Blood Test Result - Liver]]
+	- [[pages/Blood Test Result - Cholesterol|Blood Test Result - Cholesterol]]
 
 <div style="page-break-after: always;"></div>
 
