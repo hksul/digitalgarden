@@ -5,9 +5,6 @@
 
 # BioHacking Page
 
-[[pages/BioHacking Personal Report|BioHacking Personal Report]]
-
-[[pages/Intro to Biohacking Presentation|Intro to Biohacking Presentation]]
 
 - Table of Contents
 	- [[pages/Blood Test Result - Liver|Blood Test Result - Liver]]
