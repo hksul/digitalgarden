@@ -3,11 +3,6 @@
 ---
 
 
-[BioHacking MOC](BioHacking%20MOC.md)
-[Blood test MOC](../pages/Blood%20test%20MOC.md)
-
-
----
 # Liver Panel
 
 
