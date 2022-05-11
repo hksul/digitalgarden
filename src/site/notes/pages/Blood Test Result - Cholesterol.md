@@ -5,10 +5,10 @@
 
 
 
-# Cholesterol Panel
+## Cholesterol Panel
 
 
-## TotalCholesterol
+### TotalCholesterol
 
 [[pages/BloodTest - Cholesterol - Total|BloodTest - Cholesterol - Total]]
 
@@ -21,7 +21,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## Triglyceride / HDL / LDL
+### Triglyceride / HDL / LDL
 
 
 [[pages/BloodTest - Cholesterol - Triglyceride_HDL_LDL|BloodTest - Cholesterol - Triglyceride_HDL_LDL]]
@@ -32,7 +32,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## Triglycerides-to-HDL Ratio
+### Triglycerides-to-HDL Ratio
 
 
 [[pages/BloodTest - Cholesterol - Triglyceride_to_HDL_Ratio|BloodTest - Cholesterol - Triglyceride_to_HDL_Ratio]]
@@ -43,7 +43,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## TotalCholesterol-to-HDL Ratio
+### TotalCholesterol-to-HDL Ratio
 
 [[pages/BloodTest - Cholesterol - TotalCholesterol_to_HDL_Ratio|BloodTest - Cholesterol - TotalCholesterol_to_HDL_Ratio]]
 
