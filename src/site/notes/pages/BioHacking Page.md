@@ -12,6 +12,7 @@
 	- [[BioHacking/Blood Test Result - Etc|Blood Test Result - Etc]]
 
 <div style="page-break-after: always;"></div>
+---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -59,6 +60,7 @@
 
 <div style="page-break-after: always;"></div>
 
+---
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -121,8 +123,10 @@
 
 
 
-
 <div style="page-break-after: always;"></div>
+
+---
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
