@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/blood-test-result-liver/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/blood-test-result-liver/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
