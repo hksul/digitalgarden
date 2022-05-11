@@ -28,4 +28,4 @@ var layout = {title:"Triglyceride / HDL / LDL"};
 var config = {displaylogo:false};
 
 window.renderPlotlyImage(this.container, data, layout, config, "Triglyceride/HDL/LDL")
-
+```
