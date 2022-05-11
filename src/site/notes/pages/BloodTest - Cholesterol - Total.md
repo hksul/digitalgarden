@@ -23,4 +23,4 @@ var layout = {title:"TotalCholesterol"};
 var config = {displaylogo:false};
 
 window.renderPlotlyImage(this.container, data, layout, config, "TotalCholesterol")
-
+```
