@@ -7,22 +7,7 @@
 
 
 
-
-- [02:47](https://www.youtube.com/watch?v=GQXVWtNkeZw&t=837s#t=167.7771661926422)ㅇㄹㅇㄹㅇ
-- [04:30](https://www.youtube.com/watch?v=GQXVWtNkeZw&t=837s#t=270.11850003433227)sdfasdfas
-- [04:34](https://www.youtube.com/watch?v=GQXVWtNkeZw&t=837s#t=274.06341596757505)sdfasdfasdfaaa
-- [04:58](https://www.youtube.com/watch?v=GQXVWtNkeZw&t=837s#t=298.9166661525879) 그랳구나
-- 
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
