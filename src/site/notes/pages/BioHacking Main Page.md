@@ -10,7 +10,8 @@
 	- [[pages/BloodTest Main Page|BloodTest Main Page]]
 	- [[pages/InBody Main Page|InBody Main Page]]
 	- [[pages/Physical Exam Main Page|Physical Exam Main Page]]
-	- [[pages/Weight and Training Main Page|Weight and Training Main Page]]
+	- [[pages/Weight Main Page|Weight Main Page]]
+	- [[pages/Training Main Page|Training Main Page]]
 
 <div style="page-break-after: always;"></div>
 
