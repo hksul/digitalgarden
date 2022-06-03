@@ -18,6 +18,7 @@
 - 혈액검사 결과
 	- [[pages/BloodTest Main Page|BloodTest Main Page]]
 
+
 <div style="page-break-after: always;"></div>
 
 ---
