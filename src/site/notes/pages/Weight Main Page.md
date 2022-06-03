@@ -3,7 +3,7 @@
 ---
 
 
-# Weight & Training Main Page
+# Weight Main Page
 
 
 
