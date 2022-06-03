@@ -7,6 +7,11 @@
 
 
 
+<div style="page-break-after: always;"></div>
+
+---
+
+
 - 몸무게 트렌드
 	- [[pages/Weight Main Page|Weight Main Page]]
 - 인바디 결과
