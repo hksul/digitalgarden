@@ -6,11 +6,12 @@
 # BioHacking Main Page
 
 
-- 몸무게
+
+- 몸무게 트렌드
 	- [[pages/Weight Main Page|Weight Main Page]]
-- 인바디
+- 인바디 결과
 	- [[pages/InBody Main Page|InBody Main Page]]
-- 근력운동
+- 근력운동 결과
 	- [[pages/Training Main Page|Training Main Page]]
 - 체력인증검사 결과
 	- [[pages/Physical Exam Main Page|Physical Exam Main Page]]
