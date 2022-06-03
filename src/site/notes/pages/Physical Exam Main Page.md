@@ -38,14 +38,13 @@
 	- CardioEndurance(심폐지구력): 스텝 테스트
 		- YMCA Step Test
 			- $VO_2 MAX = 70.597-0.246 \times Age +0.077 \times Height(cm) - 0.222 \times Weight(kg) -0.147 \times 1 Min Pulse Recovery$
-		- https://blog.naver.com/PostView.nhn?blogId=natboy0611&logNo=222251913600&parentCategoryNo=&categoryNo=18&viewDate=&isShowPopularPosts=true&from=search
+			- [출처](https://blog.naver.com/PostView.nhn?blogId=natboy0611&logNo=222251913600&parentCategoryNo=&categoryNo=18&viewDate=&isShowPopularPosts=true&from=search)
 	- Flexibility(유연성): 좌전굴
 	- Agility(민첩성): 점프 테스트
 - 평가 등급
 	- 1/2/3 등급 or 등급외(4)
 - 평가방법
 	- 6개 항목 중 최하 등급
-	- 
 
 
 
