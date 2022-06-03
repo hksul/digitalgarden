@@ -6,11 +6,15 @@
 # BioHacking Main Page
 
 
-- Table of Contents
+- 몸무게
 	- [[pages/Weight Main Page|Weight Main Page]]
+- 인바디
 	- [[pages/InBody Main Page|InBody Main Page]]
+- 근력운동
 	- [[pages/Training Main Page|Training Main Page]]
+- 체력인증검사 결과
 	- [[pages/Physical Exam Main Page|Physical Exam Main Page]]
+- 혈액검사 결과
 	- [[pages/BloodTest Main Page|BloodTest Main Page]]
 
 <div style="page-break-after: always;"></div>
