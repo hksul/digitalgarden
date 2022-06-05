@@ -3,6 +3,14 @@
 ---
 
 
+
+[BloodTest Main Page](BloodTest%20Main%20Page.md)
+
+<div style="page-break-after: always;"></div>
+
+---
+
+
 - Table of Contents
 	- [[pages/Blood Test Result - Liver#AST ALT|AST ALT]]
 	- [[pages/Blood Test Result - Liver#ALP|ALP]]
