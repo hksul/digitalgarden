@@ -4,6 +4,19 @@
 
 
 
+[BloodTest Main Page](BloodTest%20Main%20Page.md)
+
+<div style="page-break-after: always;"></div>
+
+---
+
+
+- Table of Contents
+	- [[BioHacking/Blood Test Result - Etc#BloodSugar|BloodSugar]]
+	- [[BioHacking/Blood Test Result - Etc#HbA1c|HbA1c]]
+	- [[BioHacking/Blood Test Result - Etc#UricAcid|UricAcid]]
+	- [[BioHacking/Blood Test Result - Etc#Ferritin|Ferritin]]
+	- [[BioHacking/Blood Test Result - Etc#Testoterone|Testoterone]]
 
 ## Blood Sugar, HbA1c, Uric Acid, Ferritin & Testosterone
 
