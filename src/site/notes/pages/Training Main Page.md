@@ -10,10 +10,10 @@
 
 
 - Table of Contents
-	- [Deadlift](#Deadlift)]
-	- [Deadlift10RM](#Deadlift10RM)
-	- [Squat](#Squat)
-	- [Squat10RM](#Squat10RM)
+	- [[pages/Training Main Page#Deadlift|Deadlift]]
+	- [[pages/Training Main Page#Deadlift10RM|Deadlift10RM]]
+	- [[pages/Training Main Page#Squat|Squat]]
+	- [[pages/Training Main Page#Squat10RM|Squat10RM]]
 
 
 
