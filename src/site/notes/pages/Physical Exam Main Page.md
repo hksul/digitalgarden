@@ -11,8 +11,8 @@
 
 - Table of Contents
 	- [[pages/Physical Exam Main Page#Fitness Stats|체력인증검사 개요]]
-	- [[pages/Physical Exam Main Page#체력인증검사 등급|체력인증검사 최종등급]]
-	- [[pages/Physical Exam Main Page#BodyFatPercentage BMI|BodyFatPercentage BMI]]
+	- [[pages/Physical Exam Main Page# 체력인증검사 등급|체력인증검사 최종등급]]
+	- [[pages/Physical Exam Main Page# BodyFatPercentage & BMI|BodyFatPercentage BMI]]
 	- [[pages/Physical Exam Main Page#Weight|Weight]]
 	- [[pages/Physical Exam Main Page#Power 순발력 Strength 근력|Power 순발력 Strength 근력]]
 	- [[pages/Physical Exam Main Page#Stamina 근지구력 CardioEndurance 심폐지구력|Stamina 근지구력 CardioEndurance 심폐지구력]]
