@@ -3,7 +3,7 @@
 ---
 
 
-# Physical Exam Main Page
+# Training Main Page
 
 
 
