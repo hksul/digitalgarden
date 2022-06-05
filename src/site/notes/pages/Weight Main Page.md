@@ -7,11 +7,10 @@
 
 
 
-
 - Table of Contents
 	- [[pages/Weight Main Page#2016-2020 Weight History|2016-2020 Weight History]]
 	- [[pages/Weight Main Page#2021-2022 Weight History|2021-2022 Weight History]]
-	- [[pages/Weight Main Page#2016-Today Weight History|2016-Today Weight History]]
+	- [[pages/Weight Main Page#2016-Today Weight History| 2016-Today Weight History]]
 
 
 
