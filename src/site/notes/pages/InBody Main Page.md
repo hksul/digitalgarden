@@ -6,7 +6,6 @@
 # InBody Main Page
 
 
-
  
 - Table of Contents
 	- [[pages/InBody Main Page# FitnessScore(신체발달점수) / Weight|FitnessScore(신체발달점수) / Weight]]
