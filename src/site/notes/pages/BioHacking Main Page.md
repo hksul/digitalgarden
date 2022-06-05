@@ -3,7 +3,7 @@
 ---
 
 
-# BioHacking Main Page
+# HK's BioHacking Main Page
 
 
 
@@ -12,7 +12,7 @@
 ---
 
 
-- 몸무게 트렌드 (2016~)
+- 몸무게 트렌드 (2016.9~)
 	- [[pages/Weight Main Page|Weight Main Page]]
 - 혈액검사 결과 (2021.1~)
 	- [[pages/BloodTest Main Page|BloodTest Main Page]]
