@@ -3,8 +3,7 @@
 ---
 
 
-
-[BloodTest Main Page](BloodTest%20Main%20Page.md)
+[[pages/BloodTest Main Page|BloodTest Main Page]]
 
 <div style="page-break-after: always;"></div>
 
