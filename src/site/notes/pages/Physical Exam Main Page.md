@@ -3,7 +3,7 @@
 ---
 
 
-# Physical Exam(체력인증검사) Main Page
+# Physical Exam(체력인증검사) Main Page 1234
 
 
 
@@ -49,6 +49,7 @@
 	- 1/2/3 등급 or 등급외(4)
 - 평가방법
 	- 6개 항목 중 최하 등급
+
 
 
 
