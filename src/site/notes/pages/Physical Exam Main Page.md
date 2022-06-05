@@ -10,15 +10,14 @@
 
 
 - Table of Contents
-	- [체력인증검사 개요](#Fitness%20Stats)
-	- [체력인증검사 최종등급](#체력인증검사%20등급)
-	- [BodyFatPercentage BMI](#BodyFatPercentage%20BMI)
-	- [Weight](#Weight)
-	- [Power 순발력 Strength 근력](#Power%20순발력%20Strength%20근력)
-	- [Stamina 근지구력 CardioEndurance 심폐지구력](#Stamina%20근지구력%20CardioEndurance%20심폐지구력)
-	- [Flexibility 유연성](#Flexibility%20유연성)
-	- [Agility 민첩성](#Agility%20민첩성)
-
+	- [[pages/Physical Exam Main Page#Fitness%20Stats|체력인증검사 개요]]
+	- [[pages/Physical Exam Main Page#체력인증검사%20등급|체력인증검사 최종등급]]
+	- [[pages/Physical Exam Main Page#BodyFatPercentage%20BMI|BodyFatPercentage BMI]]
+	- [[pages/Physical Exam Main Page#Weight|Weight]]
+	- [[pages/Physical Exam Main Page#Power%20순발력%20Strength%20근력|Power 순발력 Strength 근력]]
+	- [[pages/Physical Exam Main Page#Stamina%20근지구력%20CardioEndurance%20심폐지구력|Stamina 근지구력 CardioEndurance 심폐지구력]]
+	- [[pages/Physical Exam Main Page#Flexibility%20유연성|Flexibility 유연성]]
+	- [[pages/Physical Exam Main Page#Agility%20민첩성|Agility 민첩성]]
 
 
 
