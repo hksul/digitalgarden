@@ -13,9 +13,10 @@
 
 - Table of Contents
 	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol|TotalCholesterol]]
-	- [[pages/Blood Test Result - Cholesterol#Triglyceride%20HDL%20LDL|Triglyceride HDL LDL]]
-	- [[pages/Blood Test Result - Cholesterol#Triglycerides-to-HDL%20Ratio|Triglycerides-to-HDL Ratio]]
-	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol-to-HDL%20Ratio|TotalCholesterol-to-HDL Ratio]]
+	- [[pages/Blood Test Result - Cholesterol#Triglyceride HDL LDL|Triglyceride HDL LDL]]
+	- [[pages/Blood Test Result - Cholesterol#Triglycerides-to-HDL Ratio|Triglycerides-to-HDL Ratio]]
+	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol-to-HDL Ratio|TotalCholesterol-to-HDL Ratio]]
+
 
 
 
