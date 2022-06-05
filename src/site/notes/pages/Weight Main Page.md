@@ -55,3 +55,7 @@
 <div style="page-break-after: always;"></div>
 
 ---
+
+
+
+![Drawing 2022-06-06 01.33.42.excalidraw](../Excalidraw/Drawing%202022-06-06%2001.33.42.excalidraw.md)
