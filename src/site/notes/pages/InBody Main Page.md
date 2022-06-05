@@ -20,6 +20,13 @@
 	- [[pages/InBody - BasalMetabolicRate|InBody - BasalMetabolicRate]]
 	- [[pages/InBody - VisceralFatLevel|InBody - VisceralFatLevel]]
 	- [[pages/InBody - WaistToHipRatio|InBody - WaistToHipRatio]]
+- toc3
+	- [[pages/InBody Main Page# FitnessScore(신체발달점수) / Weight|# FitnessScore(신체발달점수) / Weight]]
+	- [[pages/InBody Main Page# SkeletalMuscleMass(골격근량) / BodyFatMass(체지방량)|# SkeletalMuscleMass(골격근량) / BodyFatMass(체지방량)]]
+	- [[pages/InBody Main Page#  BMI / PercentBodyFat(체지방율)|#  BMI / PercentBodyFat(체지방율)]]
+	- [[pages/InBody Main Page#  BasalMetabolicRate(기초대사량)|#  BasalMetabolicRate(기초대사량)]]
+	- [[pages/InBody Main Page#  VisceralFatLevel(내장지방점수)|#  VisceralFatLevel(내장지방점수)]]
+	- [[pages/InBody Main Page#  WaistHipRatio(복부지방률)|#  WaistHipRatio(복부지방률)]]
 
 
 
