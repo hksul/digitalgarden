@@ -14,7 +14,7 @@
 
 
 - 몸무게 트렌드 (2016.9~)
-	- [[pages/Weight Trend|Weight Trend]]
+	- [[pages/Weight Trends|Weight Trends]]
 - 혈액검사 결과 (2021.1~)
 	- [[pages/BloodTest Main Page|BloodTest Main Page]]
 - 근력운동 결과 (2021.6~)
