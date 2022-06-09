@@ -6,10 +6,6 @@
 
 [[pages/BloodTest Results|BloodTest Results]]
 
-<div style="page-break-after: always;"></div>
-
----
-
 
 ### Blood Test Result - Advanced
 - Table of Contents
