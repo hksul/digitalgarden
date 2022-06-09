@@ -23,6 +23,8 @@
 	- [[pages/InBody Main Page|InBody Main Page]]
 - 체력인증검사 결과 (2021.6~)
 	- [[pages/Physical Exam Main Page|Physical Exam Main Page]]
+- CGM 결과(2022.6)
+	- [[pages/CGM Main Page|CGM Main Page]]
 
 
 <div style="page-break-after: always;"></div>
