@@ -4,7 +4,7 @@
 
 
 
-[[pages/BloodTest Main Page|BloodTest Main Page]]
+[[pages/BloodTest Results|BloodTest Results]]
 
 <div style="page-break-after: always;"></div>
 
