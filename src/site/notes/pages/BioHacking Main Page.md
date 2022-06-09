@@ -18,13 +18,13 @@
 - 혈액검사 결과 (2021.1~)
 	- [[pages/BloodTest Main Page|BloodTest Main Page]]
 - 근력운동 결과 (2021.6~)
-	- [[pages/Training Main Page|Training Main Page]]
+	- [[pages/Training Results|Training Results]]
 - 인바디 결과 (2021.6 ~)
-	- [[pages/InBody Main Page|InBody Main Page]]
+	- [[pages/InBody Results|InBody Results]]
 - 체력인증검사 결과 (2021.6~)
 	- [[pages/Physical Exam|Physical Exam]]
 - CGM 결과(2022.6)
-	- [[pages/CGM Main Page|CGM Main Page]]
+	- [[pages/CGM Results|CGM Results]]
 
 
 <div style="page-break-after: always;"></div>
