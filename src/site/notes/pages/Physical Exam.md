@@ -3,7 +3,7 @@
 ---
 
 
-### Physical Exam(체력인증검사) Main Page
+### Physical Exam(체력인증검사) Results
 
 
 
