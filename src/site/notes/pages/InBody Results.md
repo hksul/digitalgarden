@@ -3,7 +3,7 @@
 ---
 
 
-### InBody Main Page
+### InBody Results
 
 
  
