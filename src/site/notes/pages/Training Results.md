@@ -3,7 +3,7 @@
 ---
 
 
-### Training Main Page
+### Training Results
 
 
 
