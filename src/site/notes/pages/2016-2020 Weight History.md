@@ -8,7 +8,7 @@
 
 ```dataviewjs
 
-const pages = await dv.io.csv("/pages/weight_20220408.csv");
+const pages = await dv.io.csv("/pages/weight_20220605.csv");
 
 
 var labels1 = [];
