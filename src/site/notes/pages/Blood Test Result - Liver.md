@@ -7,10 +7,6 @@
 [[pages/BloodTest Results|BloodTest Results]]
 
 
-<div style="page-break-after: always;"></div>
-
----
-
 
 ### Liver Panel
 
