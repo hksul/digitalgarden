@@ -3,8 +3,6 @@
 ---
 
 
-[[pages/BloodTest Results|../pages/BloodTest Results]]
-
 
 [[pages/BloodTest Results|BloodTest Results]]
 
