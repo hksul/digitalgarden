@@ -5,11 +5,6 @@
 
 ### CGM Results
 
-
-<div style="page-break-after: always;"></div>
-
----
-
  
 
 - Table of Contents
