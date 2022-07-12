@@ -6,7 +6,6 @@
 ### Training Results
 
 
-
 - Table of Contents
 	- [[pages/Training Results#Deadlift|Deadlift]]
 	- [[pages/Training Results#Deadlift10RM|Deadlift10RM]]
