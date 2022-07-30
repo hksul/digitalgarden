@@ -11,7 +11,6 @@
 	- [[pages/Current Workout Routine#2. Functional Workout 1 (Home)|2. Functional Workout 1 (Home)]]
 	- [[pages/Current Workout Routine#3. Functional Workout 2 (School)|3. Functional Workout 2 (School)]]
 
-
 <div style="page-break-after: always;"></div>
 
 ---
