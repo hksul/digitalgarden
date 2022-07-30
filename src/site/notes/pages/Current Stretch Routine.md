@@ -5,7 +5,6 @@
 
 ### Current Stretch Routine
 
-
 - Table of Contents
 	- [[pages/Current Stretch Routine#Stretch 1: Barehands No Tool Stretch|Stretch 1: Barehands No Tool Stretch]]
 	- [[pages/Current Stretch Routine#Walk|Walk]]
