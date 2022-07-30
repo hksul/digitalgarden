@@ -7,7 +7,6 @@
 
 
 
-
 <div style="page-break-after: always;"></div>
 
 ---
@@ -32,8 +31,7 @@
 
 ---
 
-
-#### training regimen
+#### Training Regimen
 - [[pages/Current Stretch Routine|Current Stretch Routine]]
 - [[Current Workout Routine|Current Workout Routine]]
 
