@@ -7,11 +7,11 @@
 
 - Table of Contents
 	- [[pages/Current Stretch Routine#Stretch 1: Barehands No Tool Stretch|Stretch 1: Barehands No Tool Stretch]]
-	- [[pages/Current Stretch Routine#Walk|Walk]]
 	- [[pages/Current Stretch Routine#Stretch 2: Spine Stretch|Stretch 2: Spine Stretch]]
-	- [[pages/Current Stretch Routine#Jump Rope 1 min|Jump Rope 1 min]] 
+	- [[pages/Current Stretch Routine#Stretch 3: Dynamic Stretch|Stretch 3: Dynamic Stretch]]
 	
 <div style="page-break-after: always;"></div>
+
 
 ---
 
@@ -56,8 +56,7 @@
 - 비둘기 자세
 	- 고관절 "만"자 다리 좌우로: 5회씩
 	- 비둘기 자세 10회씩
-
-#### Walk
+ 
 #### Stretch 2: Spine Stretch
 - Spine Corrector
 	- Rest: 30 초
@@ -71,4 +70,6 @@
 	- Side Kettlebell Pull: 5회씩
 	- Situps: 5회씩
 
-#### Jump Rope 1 min
+#### Stretch 3: Dynamic Stretch
+- Jump Rope 1 min
+- Walk 5 min
