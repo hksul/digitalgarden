@@ -32,9 +32,19 @@
 	- split squat 5회
 
 
+<div style="page-break-after: always;"></div>
+
+
+---
 
 #### 1. Weight Training
 - Dead / Squat, 5RM or 10RM
+
+
+<div style="page-break-after: always;"></div>
+
+
+---
 
 #### 2. Functional Workout 1 (Home)
 - Bulgarian Bag
@@ -44,6 +54,14 @@
 	- 고관절 5회씩
 	- 한손 5회씩
 	- (케틀벨 + 어깨 위로 5회씩)
+
+
+
+<div style="page-break-after: always;"></div>
+
+
+---
+
 
 #### 3. Functional Workout 2 (School)
 - Contraction
