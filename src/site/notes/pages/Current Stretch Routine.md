@@ -56,7 +56,12 @@
 - 비둘기 자세
 	- 고관절 "만"자 다리 좌우로: 5회씩
 	- 비둘기 자세 10회씩
- 
+
+<div style="page-break-after: always;"></div>
+
+
+---
+
 #### Stretch 2: Spine Stretch
 - Spine Corrector
 	- Rest: 30 초
@@ -69,6 +74,12 @@
 	- Side 고개 들기 5회씩
 	- Side Kettlebell Pull: 5회씩
 	- Situps: 5회씩
+
+
+<div style="page-break-after: always;"></div>
+
+
+---
 
 #### Stretch 3: Dynamic Stretch
 - Jump Rope 1 min
