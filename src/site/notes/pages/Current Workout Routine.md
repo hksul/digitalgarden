@@ -6,7 +6,7 @@
 ### Current Workout Routine
 
 - Table of Contents
-	- [[pages/Current Workout Routine#Pre-workout Stretch|Pre-workout Stretch]]
+	- [[pages/Current Workout Routine#Pre-Workout Stretch|Pre-Workout Stretch]]
 	- [[pages/Current Workout Routine#1. Weight Training|1. Weight Training]]
 	- [[pages/Current Workout Routine#2. Functional Workout 1 (Home)|2. Functional Workout 1 (Home)]]
 	- [[pages/Current Workout Routine#3. Functional Workout 2 (School)|3. Functional Workout 2 (School)]]
@@ -18,7 +18,7 @@
 
 
 
-#### Pre-workout Stretch
+#### Pre-Workout Stretch
 - 발바닥 Roll (코크 볼 or 바벨)
 - 햄스트링
 	- 햄스트링 어깨 스트레칭1 (barbell 어깨 stretch)
