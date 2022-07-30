@@ -40,7 +40,7 @@
 	- 오금 편 채로 유지 10초
 	- 오금 stretch: 10초씩
 - Plank Position
-	- plank: 10초
+	- Plank: 10초
 	- 손목 pushup: 5회
 	- AB slide 따라하기: 2회
 	- Pushup with swaying: 4회 * 2
