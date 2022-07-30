@@ -6,7 +6,7 @@
 ### Current Workout Routine
 
 - Table of Contents
-	- [[pages/Current Workout Routine#Stretch 3: Pre-workout Stretch|Stretch 3: Pre-workout Stretch]]
+	- [[pages/Current Workout Routine#Pre-workout Stretch|Pre-workout Stretch]]
 	- [[pages/Current Workout Routine#1. Weight Training|1. Weight Training]]
 	- [[pages/Current Workout Routine#2. Functional Workout 1 (Home)|2. Functional Workout 1 (Home)]]
 	- [[pages/Current Workout Routine#3. Functional Workout 2 (School)|3. Functional Workout 2 (School)]]
