@@ -33,7 +33,7 @@
 
 #### Training Regimen
 - [[pages/Current Stretch Routine|Current Stretch Routine]]
-- [[Current Workout Routine|Current Workout Routine]]
+- [[pages/Current Workout Routine|Current Workout Routine]]
 
 
 
