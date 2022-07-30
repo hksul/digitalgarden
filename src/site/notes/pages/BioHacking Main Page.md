@@ -32,8 +32,10 @@
 ---
 
 #### Training Regimen
-- [[pages/Current Stretch Routine|Current Stretch Routine]]
-- [[pages/Current Workout Routine|Current Workout Routine]]
+- Stretch
+	- [[pages/Current Stretch Routine|Current Stretch Routine]]
+- Workout
+	- [[pages/Current Workout Routine|Current Workout Routine]]
 
 
 
