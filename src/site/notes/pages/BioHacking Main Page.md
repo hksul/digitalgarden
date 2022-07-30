@@ -12,6 +12,7 @@
 
 ---
 
+#### Biohacking results
 
 - 몸무게 트렌드 (2016.9~)
 	- [[pages/Weight Trends|Weight Trends]]
@@ -32,7 +33,9 @@
 ---
 
 
-
+#### training regimen
+- [[pages/Current Stretch Routine|Current Stretch Routine]]
+- [[Current Workout Routine|Current Workout Routine]]
 
 
 
