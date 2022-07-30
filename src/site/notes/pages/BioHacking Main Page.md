@@ -29,13 +29,13 @@
 ---
 
 #### Training 
-- Training Regimen
+- Routine / Regimen
 	- Stretch
 		- [[pages/Current Stretch Routine|Current Stretch Routine]]
 	- Workout
 		- [[pages/Current Workout Routine|Current Workout Routine]]
 
-- Training Results
+- Results
 	- 근력운동 결과 (2021.6~)
 		- [[pages/Training Results|Training Results]]
 	- 체력인증검사 결과 (2021.6~)
