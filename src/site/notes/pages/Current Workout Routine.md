@@ -28,9 +28,9 @@
 	- 햄스트링 어깨 스트레칭2 (pvc or 수건) - 한발씩
 	- 고관절 스트레치2
 - 고정 바벨 
-	- 5회
-	- split squat 5회
-
+	- Squat 5회
+	- Bulgarian Split Squat 5회 
+		- 추천: "Rear Foot Elevated" Bulgarian Split Squat
 
 <div style="page-break-after: always;"></div>
 
