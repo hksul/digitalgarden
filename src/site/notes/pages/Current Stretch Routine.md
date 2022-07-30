@@ -9,8 +9,7 @@
 	- [[pages/Current Stretch Routine#Stretch 1: Barehands No Tool Stretch|Stretch 1: Barehands No Tool Stretch]]
 	- [[pages/Current Stretch Routine#Walk|Walk]]
 	- [[pages/Current Stretch Routine#Stretch 2: Spine Stretch|Stretch 2: Spine Stretch]]
-	- [[pages/Current Stretch Routine#Jump Rope 1 min|Jump Rope 1 min]]
-	- [[pages/Current Stretch Routine#Stretch 3: Pre-workout Stretch|Stretch 3: Pre-workout Stretch]]
+	- [[pages/Current Stretch Routine#Jump Rope 1 min|Jump Rope 1 min]] 
 	
 <div style="page-break-after: always;"></div>
 
@@ -73,16 +72,3 @@
 	- Situps: 5회씩
 
 #### Jump Rope 1 min
-
-#### Stretch 3: Pre-workout Stretch
-- 발바닥 Roll (코크 볼 or 바벨)
-- 햄스트링
-	- 햄스트링 어깨 스트레칭1 (barbell 어깨 stretch)
-	- 바벨컬 5회
-	- 덤벨 스티프 데드 5회
-	- 덤벨 루마니안 데드 5회
-	- 햄스트링 어깨 스트레칭2 (pvc or 수건) - 한발씩
-	- 고관절 스트레치2
-- 고정 바벨 
-	- 5회
-	- split squat 5회
