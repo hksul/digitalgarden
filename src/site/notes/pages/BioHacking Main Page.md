@@ -17,12 +17,9 @@
 	- [[pages/Weight Trends|Weight Trends]]
 - 혈액검사 결과 (2021.1~)
 	- [[pages/BloodTest Results|BloodTest Results]]
-- 근력운동 결과 (2021.6~)
-	- [[pages/Training Results|Training Results]]
+
 - 인바디 결과 (2021.6 ~)
 	- [[pages/InBody Results|InBody Results]]
-- 체력인증검사 결과 (2021.6~)
-	- [[pages/Physical Exam|Physical Exam]]
 - CGM 결과(2022.6)
 	- [[pages/CGM Results|CGM Results]]
 
@@ -31,12 +28,16 @@
 
 ---
 
-#### Training Regimen
-- Stretch
-	- [[pages/Current Stretch Routine|Current Stretch Routine]]
-- Workout
-	- [[pages/Current Workout Routine|Current Workout Routine]]
+#### Training 
+- Training Regimen
+	- Stretch
+		- [[pages/Current Stretch Routine|Current Stretch Routine]]
+	- Workout
+		- [[pages/Current Workout Routine|Current Workout Routine]]
 
-
-
+- Training Results
+	- 근력운동 결과 (2021.6~)
+		- [[pages/Training Results|Training Results]]
+	- 체력인증검사 결과 (2021.6~)
+		- [[pages/Physical Exam|Physical Exam]]
 
