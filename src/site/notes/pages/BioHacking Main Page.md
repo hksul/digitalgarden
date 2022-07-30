@@ -11,7 +11,8 @@
 
 ---
 
-#### Biohacking results
+
+#### Biohacking Results
 
 - 몸무게 트렌드 (2016.9~)
 	- [[pages/Weight Trends|Weight Trends]]
