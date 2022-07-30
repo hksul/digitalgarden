@@ -38,7 +38,10 @@
 ---
 
 #### 1. Weight Training
-- Dead / Squat, 5RM or 10RM
+- Trapbar Deadlift 
+	- 5RM or 10RM
+- Squat (Back)
+	- 5RM or 10RM
 
 
 <div style="page-break-after: always;"></div>
@@ -64,7 +67,7 @@
 
 #### 3. Functional Workout 2 (School)
 - Contraction
-	- L sit 혹은 행잉 레그/니 레이즈  5회
+	- L-sit 혹은 행잉 레그/니 레이즈  5회
 - Compression / Carrying
 	- 파머 워크: 80kg * 20s walk
 - Crawling (호보)
