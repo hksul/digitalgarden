@@ -6,7 +6,7 @@
 ### Current Stretch Routine
 
 - Table of Contents
-	- [[pages/Current Stretch Routine#Stretch 1: Barehands No Tool Stretch|Stretch 1: Barehands No Tool Stretch]]
+	- [[pages/Current Stretch Routine#Stretch 1: Barehands Stretch|Stretch 1: Barehands Stretch]]
 	- [[pages/Current Stretch Routine#Stretch 2: Spine Stretch|Stretch 2: Spine Stretch]]
 	- [[pages/Current Stretch Routine#Stretch 3: Dynamic Stretch|Stretch 3: Dynamic Stretch]]
 	
@@ -15,7 +15,7 @@
 
 ---
 
- #### Stretch 1: Barehands No Tool Stretch
+ #### Stretch 1: Barehands Stretch
 - Head and (Shoulder)
 	- Head Rotation
 		- Right, Left, Up, Down
