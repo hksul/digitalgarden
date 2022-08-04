@@ -4,7 +4,7 @@
 
 
 ### Current Stretch Routine
-- Date: 2022 August
+- Update: 2022 August
 
 - Table of Contents
 	- [[pages/Current Stretch Routine#Stretch 1: Spine Stretch|Stretch 1: Spine Stretch]]
