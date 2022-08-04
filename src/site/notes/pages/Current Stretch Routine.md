@@ -6,8 +6,8 @@
 ### Current Stretch Routine
 
 - Table of Contents
-	- [[pages/Current Stretch Routine#Stretch 1: Barehands Stretch|Stretch 1: Barehands Stretch]]
-	- [[pages/Current Stretch Routine#Stretch 2: Spine Stretch|Stretch 2: Spine Stretch]]
+	- [[pages/Current Stretch Routine#Stretch 1: Spine Stretch|Stretch 1: Spine Stretch]]
+	- [[pages/Current Stretch Routine#Stretch 2: Barehands Stretch|Stretch 2: Barehands Stretch]]
 	- [[pages/Current Stretch Routine#Stretch 3: Dynamic Stretch|Stretch 3: Dynamic Stretch]]
 	
 <div style="page-break-after: always;"></div>
@@ -15,7 +15,28 @@
 
 ---
 
- #### Stretch 1: Barehands Stretch
+
+#### Stretch 1: Spine Stretch
+- Spine Corrector
+	- Rest: 30 초
+	- 가슴 돌리기 5회씩
+	- 스님 Stretch: 5회
+	- 시소 Stretch: 5회
+	- 롤 Stretch: 2회
+	- 한손 weights: 5회씩
+	- Shoulder Rotation Stretch
+	- Side 고개 들기 5회씩
+	- Side Kettlebell Pull: 5회씩
+	- Situps: 5회씩
+
+
+<div style="page-break-after: always;"></div>
+
+
+---
+
+
+ #### Stretch 2: Barehands Stretch
 - Head and (Shoulder)
 	- Head Rotation
 		- Right, Left, Up, Down
@@ -62,24 +83,6 @@
 
 ---
 
-#### Stretch 2: Spine Stretch
-- Spine Corrector
-	- Rest: 30 초
-	- 가슴 돌리기 5회씩
-	- 스님 Stretch: 5회
-	- 시소 Stretch: 5회
-	- 롤 Stretch: 2회
-	- 한손 weights: 5회씩
-	- Shoulder Rotation Stretch
-	- Side 고개 들기 5회씩
-	- Side Kettlebell Pull: 5회씩
-	- Situps: 5회씩
-
-
-<div style="page-break-after: always;"></div>
-
-
----
 
 #### Stretch 3: Dynamic Stretch
 - Jump Rope 1 min
