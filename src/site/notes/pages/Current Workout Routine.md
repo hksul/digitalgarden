@@ -9,8 +9,9 @@
 - Table of Contents
 	- [[pages/Current Workout Routine#Pre-Workout Stretch|Pre-Workout Stretch]]
 	- [[pages/Current Workout Routine#1. Weight Training|1. Weight Training]]
-	- [[pages/Current Workout Routine#2. Functional Workout 1 (Home)|2. Functional Workout 1 (Home)]]
-	- [[pages/Current Workout Routine#3. Functional Workout 2 (School)|3. Functional Workout 2 (School)]]
+	- [[pages/Current Workout Routine#2. Functional Workout|2. Functional Workout]]
+		- [[pages/Current Workout Routine#Equipment Version (Bulgarian Bag & KettleBell)|Equipment Version (Bulgarian Bag & KettleBell)]]
+		- [[pages/Current Workout Routine#No Equipment Version|No Equipment Version]]
 
 <div style="page-break-after: always;"></div>
 
@@ -51,7 +52,7 @@
 
 ---
 
-#### 2. Functional Workout 
+#### 2. Functional Workout
 
 ##### Equipment Version (Bulgarian Bag & KettleBell)
 - Bulgarian Bag
