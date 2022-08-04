@@ -75,9 +75,6 @@
 	- 양 방향으로 고개 회전 Stretch: 10초씩 양쪽, 2번
 - Single Leg Kneel Position
 	- Arm Rotation: 2종류 5회씩
-- 비둘기 자세
-	- 고관절 "만"자 다리 좌우로: 5회씩
-	- 비둘기 자세 10회씩
 
 <div style="page-break-after: always;"></div>
 
@@ -87,4 +84,10 @@
 
 #### Stretch 3: Dynamic Stretch
 - Jump Rope 1 min
+- Hip
+	- Pigeon Pose
+		- 고관절 "만"자 다리 좌우로: 5회씩
+		- 비둘기 자세 10회씩
+- Hamstrings
+	- Squat-like Hamstring Stretch 
 - Walk 5 min
