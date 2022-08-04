@@ -20,7 +20,7 @@
 
 - 인바디 결과 (2021.6 ~ 2022.7)
 	- [[pages/InBody Results|InBody Results]]
-- CGM 결과(2022.6)
+- CGM 결과 (2022.6)
 	- [[pages/CGM Results|CGM Results]]
 
 
@@ -36,7 +36,7 @@
 		- [[pages/Current Workout Routine|Current Workout Routine]]
 
 - Results
-	- 근력운동 결과 (2021.6~)
+	- 근력운동 결과 (2021.6 ~ 2022.8)
 		- [[pages/Training Results|Training Results]]
 	- 체력인증검사 결과 (2021.6 ~ 2022.7)
 		- [[pages/Physical Exam|Physical Exam]]
