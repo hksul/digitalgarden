@@ -4,7 +4,7 @@
 
 
 ### Current Workout Routine
-- Date: 2022 August
+- Update: 2022 August
 
 - Table of Contents
 	- [[pages/Current Workout Routine#Pre-Workout Stretch|Pre-Workout Stretch]]
