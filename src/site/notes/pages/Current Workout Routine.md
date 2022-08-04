@@ -5,6 +5,7 @@
 
 ### Current Workout Routine
 - Date: 2022 August
+
 - Table of Contents
 	- [[pages/Current Workout Routine#Pre-Workout Stretch|Pre-Workout Stretch]]
 	- [[pages/Current Workout Routine#1. Weight Training|1. Weight Training]]
@@ -52,7 +53,7 @@
 
 #### 2. Functional Workout 
 
-##### V1 (Bulgarian Bag & KettleBell)
+##### Equipment Version (Bulgarian Bag & KettleBell)
 - Bulgarian Bag
 	- Hip Thrust
 - KettleBell
@@ -67,7 +68,7 @@
 
 ---
 
-##### V2 (No Equipment)
+##### No Equipment Version
 - Contraction
 	- L-sit or Hanging Leg/Knee Raise 5회
 - Compression / Carrying
