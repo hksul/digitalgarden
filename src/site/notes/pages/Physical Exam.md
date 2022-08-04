@@ -7,7 +7,7 @@
 
 
 
-
+- Update: 2022 July
 
 - Table of Contents
 	- [[pages/Physical Exam#Fitness Stats|체력인증검사 개요]]
