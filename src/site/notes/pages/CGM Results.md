@@ -5,6 +5,7 @@
 
 ### CGM Results
 
+- Update: 2022 Jun
  
  - Table of Contents
 	- [[pages/CGM Results#2022 June CGM|2022 June CGM]]
