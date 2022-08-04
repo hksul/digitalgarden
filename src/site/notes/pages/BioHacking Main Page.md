@@ -38,6 +38,6 @@
 - Results
 	- 근력운동 결과 (2021.6~)
 		- [[pages/Training Results|Training Results]]
-	- 체력인증검사 결과 (2021.6~)
+	- 체력인증검사 결과 (2021.6 ~ 2022.7)
 		- [[pages/Physical Exam|Physical Exam]]
 
