@@ -7,6 +7,12 @@
 
 - Update: 2022 August
 
+
+- Table of Contents
+	- [[pages/BioHacking Main Page#Biohacking Results|Biohacking Results]]
+	- [[pages/BioHacking Main Page#Training Results|Training Results]]
+	- [[pages/BioHacking Main Page#Routine / Regimen|Routine / Regimen]]
+
 <div style="page-break-after: always;"></div>
 
 ---
@@ -28,16 +34,21 @@
 
 ---
 
-#### Training 
-- Routine / Regimen
-	- Stretch (2022.8)
-		- [[pages/Current Stretch Routine|Current Stretch Routine]]
-	- Workout (2022.8)
-		- [[pages/Current Workout Routine|Current Workout Routine]]
+#### Training Results
+- 근력운동 결과 (2021.6 ~ 2022.8)
+	- [[pages/Training Results|Training Results]]
+- 체력인증검사 결과 (2021.6 ~ 2022.7)
+	- [[pages/Physical Exam|Physical Exam]]
 
-- Results
-	- 근력운동 결과 (2021.6 ~ 2022.8)
-		- [[pages/Training Results|Training Results]]
-	- 체력인증검사 결과 (2021.6 ~ 2022.7)
-		- [[pages/Physical Exam|Physical Exam]]
+
+
+<div style="page-break-after: always;"></div>
+
+---
+
+#### Routine / Regimen
+- Stretch (2022.8)
+	- [[pages/Current Stretch Routine|Current Stretch Routine]]
+- Workout (2022.8)
+	- [[pages/Current Workout Routine|Current Workout Routine]]
 
