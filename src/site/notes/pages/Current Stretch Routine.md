@@ -40,7 +40,7 @@
 
  #### Stretch 2: Barehands Stretch
 - Preparation
-	- Head Rotation
+	- Neci
 		- Right, Left, Up, Down
 		- Roll, Rotation
 	- Shoulder
