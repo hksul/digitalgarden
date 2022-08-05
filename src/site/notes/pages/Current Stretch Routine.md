@@ -68,6 +68,9 @@
 	- AB slide 따라하기: 2회
 	- Pushup with swaying: 4회 * 2
 	- Plank - 무릎 - 고관절 - 어깨 stretch: 5회씩
+- Transition (Hamstring Stretch)
+	- Standup - Hip Hinge
+	- Hip Hinge - Squat
 - Asian Squat Position
 	- Pray: 10초
 	- Fist: 20초
