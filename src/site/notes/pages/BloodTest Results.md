@@ -6,7 +6,6 @@
 ### BloodTest Results
 
 
-
 - Update: 2022 July
 
 - Table of Contents
