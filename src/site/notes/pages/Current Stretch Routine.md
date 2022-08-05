@@ -88,10 +88,8 @@
 
 #### Stretch 3: Dynamic Stretch
 - Jump Rope 1 min
-- Hip
+- Weakness
 	- Pigeon Pose
 		- 고관절 "만"자 다리 좌우로: 5회씩
 		- 비둘기 자세 10회씩
-- Hamstrings
-	- Squat-like Hamstring Stretch 
 - Walk 5 min
