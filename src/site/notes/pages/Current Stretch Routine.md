@@ -60,8 +60,8 @@
 	- 한쪽씩 다리 밖으로 외회전 한 상태서 동적 스트레치: 10초씩
 - Downward Dog Position 
 	- 등 펴고 무릎 구부린 상태: 15초
-	- 오금 편 채로 유지 10초
 	- 오금 stretch: 10초씩
+	- 오금 편 채로 유지 10초
 - Plank Position
 	- Plank: 10초
 	- 손목 pushup: 5회
