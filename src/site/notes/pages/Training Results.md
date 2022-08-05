@@ -5,7 +5,7 @@
 
 ### Training Results
 
-Update: 2022.8
+Update: 2022 August
 
 - Table of Contents
 	- [[pages/Training Results#Deadlift|Deadlift]]
