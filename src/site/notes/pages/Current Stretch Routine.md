@@ -39,16 +39,19 @@
 
 
  #### Stretch 2: Barehands Stretch
-- Head and (Shoulder)
+- Preparation
 	- Head Rotation
 		- Right, Left, Up, Down
 		- Roll, Rotation
-	- Shrug and Scapula Rotation
-		- Shrug
-		- Scapula Rotation
-		- Shrug & Scapula Rotation
-	- Rotate praying hands over head
-	- Dumbell Shoulder Rotation: 3개 각도 5회씩
+	- Shoulder
+		- Shrug and Scapula Rotation
+			- Shrug
+			- Scapula Rotation
+			- Shrug & Scapula Rotation
+		- Rotate praying hands over head
+		- Dumbell Shoulder Rotation: 3개 각도 5회씩
+	- Ankle
+		- Flexion, if needed
 - Table Position
 	- Table Position 10 sec (breathe)
 	- Cat Cow: 5회
