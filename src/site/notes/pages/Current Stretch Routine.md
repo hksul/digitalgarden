@@ -21,13 +21,13 @@
 #### Stretch 1: Spine Stretch
 - Spine Corrector
 	- Rest: 30 초
-	- 가슴 돌리기 5회씩
+	- 가슴 돌리기: 5회씩
 	- 스님 Stretch: 5회
 	- 시소 Stretch: 5회
 	- 롤 Stretch: 2회
 	- 한손 weights: 5회씩
 	- Shoulder Rotation Stretch
-	- Side 고개 들기 5회씩
+	- Side 고개 들기: 5회씩
 	- Side Kettlebell Pull: 5회씩
 	- Situps: 5회씩
 
@@ -40,31 +40,31 @@
 
  #### Stretch 2: Barehands Stretch
 - Preparation
-	- Neci
-		- Right, Left, Up, Down
-		- Roll, Rotation
+	- Neck
+		- Flexion: Forward / Backward / Side(R/L) Bend
+		- Rotation(R/L), Circles(Clockwise/Counter Clockwise)
 	- Shoulder
-		- Shrug and Scapula Rotation
-			- Shrug
-			- Scapula Rotation
-			- Shrug & Scapula Rotation
-		- Rotate praying hands over head
+		- Trapezius and Scapula muscles
+			- Neck Retraction
+			- Shoulder Blade Pull
+			- Neck Retraction & Shoulder Blade Pull
+		- Scapula Upward Rotation (Hands together)
 		- Dumbell Shoulder Rotation: 3개 각도 5회씩
 	- Ankle
 		- Flexion, if needed
 - Table Position
-	- Table Position 10 sec (breathe)
-	- Cat Cow: 5회
+	- Table Position: 10 sec (breathe)
 	- Scapula Rotation: 5회씩
+	- Cat Cow: 5회
 	- 등 스트레치:
-		- 무릎 90도 10초
-		- 고관절 접힘 10초 
-	- 개구리 포지션 동적 스트레치: 20초
+		- 무릎 90도: 10초
+		- 고관절 접힘: 10초 
+	- Frog Position 동적 스트레치: 20초
 	- 한쪽씩 다리 밖으로 외회전 한 상태서 동적 스트레치: 10초씩
 - Downward Dog Position 
 	- 등 펴고 무릎 구부린 상태: 15초
 	- 오금 stretch: 10초씩
-	- 오금 편 채로 유지 10초
+	- 오금 편 채로 유지: 10초
 - Plank Position
 	- Plank: 10초
 	- 손목 pushup: 5회
@@ -72,8 +72,8 @@
 	- Pushup with swaying: 4회 * 2
 	- Plank - 무릎 - 고관절 - 어깨 stretch: 5회씩
 - Transition (Hamstring Stretch)
-	- Standup - Hip Hinge
-	- Hip Hinge - Squat
+	- Standup - Hip Hinge: x5
+	- Hip Hinge - Squat: x5
 - Asian Squat Position
 	- Pray: 10초
 	- Fist: 20초
@@ -90,9 +90,9 @@
 
 
 #### Stretch 3: Dynamic Stretch
-- Jump Rope 1 min
+- Jump Rope: 1 min
 - Weakness
 	- Pigeon Pose
 		- 고관절 "만"자 다리 좌우로: 5회씩
-		- 비둘기 자세 10회씩
-- Walk 5 min
+		- 비둘기 자세: 10회씩
+- Walk: 5 min
