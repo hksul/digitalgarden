@@ -91,7 +91,7 @@
 
 #### Stretch 3: Dynamic Stretch
 - Jump Rope: 1 min
-- Weakness
+- Weakness Workout
 	- Pigeon Pose
 		- 고관절 "만"자 다리 좌우로: 5회씩
 		- 비둘기 자세: 10회씩
