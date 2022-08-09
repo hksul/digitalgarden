@@ -71,7 +71,8 @@
 	- AB slide 따라하기: 2회
 	- Pushup with swaying: 4회 * 2
 	- Plank - 무릎 - 고관절 - 어깨 stretch: 5회씩
-- Transition (Hamstring Stretch)
+- Standing Position
+	- (Goblet/Weighted) Cossak Squat
 	- Standup - Hip Hinge: x5
 	- Hip Hinge - Squat: x5
 - Asian Squat Position
