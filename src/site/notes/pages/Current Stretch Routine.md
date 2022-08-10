@@ -75,6 +75,7 @@
 	- Plank: 10초
 	- 손목 pushup: 5회
 	- AB slide 따라하기: 2회
+	- Crawl: 4 directions
 	- Pushup with swaying: 4회 * 2
 	- Plank - 무릎 - 고관절 - 어깨 stretch: 5회씩
 - Standing Position
