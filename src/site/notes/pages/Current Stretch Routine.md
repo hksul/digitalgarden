@@ -39,23 +39,29 @@
 
 
  #### Stretch 2: Barehands Stretch
-- Preparation
+- Preparation - Standing Position
 	- Neck
-		- Flexion: Forward / Backward / Side(R/L) Bend
-		- Rotation(R/L), Circles(Clockwise/Counter Clockwise)
+		- Bend: Forward / Backward / Side (R/L)
+		- Rotation (R/L)
+		- Circles (Clockwise/Counter Clockwise)
 	- Shoulder
 		- Trapezius and Scapula muscles
 			- Neck Retraction
 			- Shoulder Blade Pull
 			- Neck Retraction & Shoulder Blade Pull
-		- Scapula Upward Rotation (Hands together)
-		- Dumbell Shoulder Rotation: 3개 각도 5회씩
-	- Ankle
-		- Flexion, if needed
+		- Scapula Upward Rotation (Hands together - Wrist Stretch)
+		- (Dumbell) Shoulder Rotation: 3개 각도 5회씩
+	- Ankle Stretch
+		- Pump / Circles 
+		- Calf Stretch - Knee straight
+		- Soleus Stretch - Knee bent
+		- Anterior Tibialis Stretch 
+		- Plantar Fascia Stretch - Roll
 - Table Position
 	- Table Position: 10 sec (breathe)
 	- Scapula Rotation: 5회씩
-	- Cat Cow: 5회
+	- Cat-Cow: 5회
+	- Bird-Dog: 5회씩
 	- 등 스트레치:
 		- 무릎 90도: 10초
 		- 고관절 접힘: 10초 
@@ -93,6 +99,7 @@
 #### Stretch 3: Dynamic Stretch
 - Jump Rope: 1 min
 - Weakness Workout
+	- 좌전굴
 	- Pigeon Pose
 		- 고관절 "만"자 다리 좌우로: 5회씩
 		- 비둘기 자세: 10회씩
