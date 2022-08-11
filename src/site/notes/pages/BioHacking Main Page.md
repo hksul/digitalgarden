@@ -14,7 +14,6 @@
 	- [[pages/BioHacking Main Page#Training Results|Training Results]]
 
 
-
 <div style="page-break-after: always;"></div>
 
 ---
