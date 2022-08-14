@@ -51,6 +51,9 @@
 			- Neck Retraction & Shoulder Blade Pull
 		- Scapula Upward Rotation (Hands together - Wrist Stretch)
 		- (Dumbell) Shoulder Rotation: 3개 각도 5회씩
+		- Single Leg Kneel Position
+			- Arm Rotation: 2종류 5회씩
+
 	- Ankle Stretch
 		- Pump / Circles 
 		- Calf Stretch - Knee straight
@@ -92,8 +95,6 @@
 - Shaolin Squat Position
 	- 어깨 아래로 주욱
 	- 양 방향으로 고개 회전 Stretch: 10초씩 양쪽, 2번
-- Single Leg Kneel Position
-	- Arm Rotation: 2종류 5회씩
 
 <div style="page-break-after: always;"></div>
 
