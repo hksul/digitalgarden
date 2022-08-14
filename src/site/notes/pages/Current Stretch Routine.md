@@ -53,6 +53,8 @@
 		- (Dumbell) Shoulder Rotation: 3개 각도 5회씩
 		- Single Leg Kneel Position
 			- Arm Rotation: 2종류 5회씩
+		- Proning Position
+			- Swipe arms while twisting
 
 	- Ankle Stretch
 		- Pump / Circles 
@@ -60,8 +62,7 @@
 		- Soleus Stretch - Knee bent
 		- Anterior Tibialis Stretch 
 		- Plantar Fascia Stretch - Roll
-- Proning Position
-	- Swipe arms while twisting
+
 - Table Position
 	- Table Position: 10 sec (breathe)
 	- Scapula Rotation: 5회씩
@@ -87,14 +88,15 @@
 - Hip Joint Stretch
 	- Standup - Hip Hinge: x5
 	- Hip Hinge - Squat: x5
-- Asian Squat Position
-	- Pray: 10초
-	- Fist: 10초
+	- Asian Squat Position
+		- Pray: 10초
+		- Fist: 10초
+- Multi Joint Movement
 	- (Goblet/Weighted) Cossak Squat
 	- Horse Stance: 10 초
-- Shaolin Squat Position
-	- 어깨 아래로 주욱
-	- 양 방향으로 고개 회전 Stretch: 10초씩 양쪽, 2번
+	- Shaolin Squat Position
+		- 어깨 아래로 주욱
+		- 양 방향으로 고개 회전 Stretch: 10초씩 양쪽, 2번
 
 <div style="page-break-after: always;"></div>
 
