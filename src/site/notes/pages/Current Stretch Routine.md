@@ -57,6 +57,8 @@
 		- Soleus Stretch - Knee bent
 		- Anterior Tibialis Stretch 
 		- Plantar Fascia Stretch - Roll
+- Proning Position
+	- Swipe arms while twisting
 - Table Position
 	- Table Position: 10 sec (breathe)
 	- Scapula Rotation: 5회씩
@@ -71,20 +73,22 @@
 	- 등 펴고 무릎 구부린 상태: 15초
 	- 오금 stretch: 10초씩
 	- 오금 편 채로 유지: 10초
+- Crawl Position (Between Table and Downward Dog position)
+	- 손목 pushup: 5회
+	- AB slide: 2회
+	- Bear Crawl: 4 directions
 - Plank Position
 	- Plank: 10초
-	- 손목 pushup: 5회
-	- AB slide 따라하기: 2회
-	- Crawl: 4 directions
 	- Pushup with swaying: 4회 * 2
 	- Plank - 무릎 - 고관절 - 어깨 stretch: 5회씩
-- Standing Position
-	- (Goblet/Weighted) Cossak Squat
+- Hip Joint Stretch
 	- Standup - Hip Hinge: x5
 	- Hip Hinge - Squat: x5
 - Asian Squat Position
 	- Pray: 10초
-	- Fist: 20초
+	- Fist: 10초
+	- (Goblet/Weighted) Cossak Squat
+	- Horse Stance: 10 초
 - Shaolin Squat Position
 	- 어깨 아래로 주욱
 	- 양 방향으로 고개 회전 Stretch: 10초씩 양쪽, 2번
