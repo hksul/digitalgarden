@@ -39,7 +39,7 @@
 
 
  #### Stretch 2: Barehands Stretch
-- Preparation - Standing Position
+- Preparation
 	- Neck
 		- Bend: Forward / Backward / Side (R/L)
 		- Rotation (R/L)
@@ -83,14 +83,15 @@
 	- Bear Crawl: 4 directions
 - Plank Position
 	- Plank: 10초
+	- Elbow Plank: 10초
 	- Pushup with swaying: 4회 * 2
 	- Plank - 무릎 - 고관절 - 어깨 stretch: 5회씩
 - Hip Joint Stretch
-	- Standup - Hip Hinge: x5
-	- Hip Hinge - Squat: x5
 	- Asian Squat Position
 		- Pray: 10초
 		- Fist: 10초
+	- Hamstring Stretch while holding ankles in Squat position: x5
+	- Standing up bowing with Hip Hinge: x5
 - Multi Joint Movement
 	- (Goblet/Weighted) Cossak Squat
 	- Horse Stance: 10 초
@@ -99,7 +100,6 @@
 		- 양 방향으로 고개 회전 Stretch: 10초씩 양쪽, 2번
 
 <div style="page-break-after: always;"></div>
-
 
 ---
 
