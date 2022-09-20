@@ -8,10 +8,10 @@
 - Update: 2022 August
 
 - Table of Contents
-	- [[pages/Current Stretch Routine#Stretch 0: Preparation|Stretch 0: Preparation]]
-	- [[pages/Current Stretch Routine#Stretch 1: Spine Stretch|Stretch 1: Spine Stretch]]
-	- [[pages/Current Stretch Routine#Stretch 2: Barehands Stretch|Stretch 2: Barehands Stretch]]
-	- [[pages/Current Stretch Routine#Stretch 3: Dynamic Stretch|Stretch 3: Dynamic Stretch]]
+	- [[pages/Current Stretch Routine#Stretch 1: Preparation|Stretch 1: Preparation]]
+	- [[pages/Current Stretch Routine#Stretch 2: Spine Stretch|Stretch 2: Spine Stretch]]
+	- [[pages/Current Stretch Routine#Stretch 3: Barehands Stretch|Stretch 3: Barehands Stretch]]
+	- [[pages/Current Stretch Routine#Stretch 4: Dynamic Stretch|Stretch 4: Dynamic Stretch]]
 	
 <div style="page-break-after: always;"></div>
 
@@ -20,7 +20,7 @@
 
 
 
-#### Stretch 0: Preparation 
+#### Stretch 1: Preparation 
 
 - Neck
 	- Bend: Forward / Backward / Side (R/L)
@@ -48,7 +48,7 @@
 ---
 
 
-#### Stretch 1: Spine Stretch
+#### Stretch 2: Spine Stretch
 - Spine Corrector
 	- Rest: 30 초
 	- 가슴 돌리기: 5회씩
@@ -68,7 +68,7 @@
 ---
 
 
- #### Stretch 2: Barehands Stretch
+ #### Stretch 3: Barehands Stretch
 
 - Table Position
 	- Table Position: 10 sec (breathe)
@@ -111,7 +111,7 @@
 ---
 
 
-#### Stretch 3: Dynamic Stretch
+#### Stretch 4: Dynamic Stretch
 - Jump Rope: 1 min
 - Weakness Workout
 	- 고관절
