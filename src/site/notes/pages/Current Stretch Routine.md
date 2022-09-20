@@ -8,6 +8,7 @@
 - Update: 2022 August
 
 - Table of Contents
+	- [[pages/Current Stretch Routine#Stretch 0: Preparation|Stretch 0: Preparation]]
 	- [[pages/Current Stretch Routine#Stretch 1: Spine Stretch|Stretch 1: Spine Stretch]]
 	- [[pages/Current Stretch Routine#Stretch 2: Barehands Stretch|Stretch 2: Barehands Stretch]]
 	- [[pages/Current Stretch Routine#Stretch 3: Dynamic Stretch|Stretch 3: Dynamic Stretch]]
@@ -17,10 +18,8 @@
 
 ---
 
-#### Stretch 0: P
 
-
- #### Stretch 0: Preparation 
+#### Stretch 0: Preparation 
 
 - Neck
 	- Bend: Forward / Backward / Side (R/L)
