@@ -5,7 +5,7 @@
 
 
 ### Current Stretch Routine
-- Update: 2022 August
+- Update: 2022 Sep
 
 - Table of Contents
 	- [[pages/Current Stretch Routine#Stretch 1: Preparation|Stretch 1: Preparation]]
