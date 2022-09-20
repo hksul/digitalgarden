@@ -19,6 +19,7 @@
 ---
 
 
+
 #### Stretch 0: Preparation 
 
 - Neck
@@ -32,10 +33,7 @@
 		- Neck Retraction & Shoulder Blade Pull
 	- Scapula Upward Rotation (Hands together - Wrist Stretch)
 	- (Dumbell) Shoulder Rotation: 3개 각도 5회씩
-	- Single Leg Kneel Position
-		- Arm Rotation: 2종류 5회씩
-	- Proning Position
-		- Swipe arms while twisting
+
 
 - Ankle Stretch
 	- Pump / Circles 
@@ -112,8 +110,14 @@
 #### Stretch 3: Dynamic Stretch
 - Jump Rope: 1 min
 - Weakness Workout
-	- 좌전굴
-	- Pigeon Pose
-		- 고관절 "만"자 다리 좌우로: 5회씩
-		- 비둘기 자세: 10회씩
+	- 고관절
+		- 좌전굴
+		- Pigeon Pose
+			- 고관절 "만"자 다리 좌우로: 5회씩
+			- 비둘기 자세: 10회씩
+	- (Shoulder)
+		- Single Leg Kneel Position
+			- Arm Rotation: 2종류 5회씩
+		- Proning Position
+			- Swipe arms while twisting
 - Walk: 5 min
