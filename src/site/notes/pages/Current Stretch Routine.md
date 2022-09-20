@@ -43,6 +43,10 @@
 	- Plantar Fascia Stretch - Roll
 
 
+<div style="page-break-after: always;"></div>
+
+---
+
 
 #### Stretch 1: Spine Stretch
 - Spine Corrector
