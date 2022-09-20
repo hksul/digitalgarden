@@ -17,6 +17,35 @@
 
 ---
 
+#### Stretch 0: P
+
+
+ #### Stretch 0: Preparation 
+
+- Neck
+	- Bend: Forward / Backward / Side (R/L)
+	- Rotation (R/L)
+	- Circles (Clockwise/Counter Clockwise)
+- Shoulder
+	- Trapezius and Scapula muscles
+		- Neck Retraction
+		- Shoulder Blade Pull
+		- Neck Retraction & Shoulder Blade Pull
+	- Scapula Upward Rotation (Hands together - Wrist Stretch)
+	- (Dumbell) Shoulder Rotation: 3개 각도 5회씩
+	- Single Leg Kneel Position
+		- Arm Rotation: 2종류 5회씩
+	- Proning Position
+		- Swipe arms while twisting
+
+- Ankle Stretch
+	- Pump / Circles 
+	- Calf Stretch - Knee straight
+	- Soleus Stretch - Knee bent
+	- Anterior Tibialis Stretch 
+	- Plantar Fascia Stretch - Roll
+
+
 
 #### Stretch 1: Spine Stretch
 - Spine Corrector
@@ -39,29 +68,6 @@
 
 
  #### Stretch 2: Barehands Stretch
-- Preparation
-	- Neck
-		- Bend: Forward / Backward / Side (R/L)
-		- Rotation (R/L)
-		- Circles (Clockwise/Counter Clockwise)
-	- Shoulder
-		- Trapezius and Scapula muscles
-			- Neck Retraction
-			- Shoulder Blade Pull
-			- Neck Retraction & Shoulder Blade Pull
-		- Scapula Upward Rotation (Hands together - Wrist Stretch)
-		- (Dumbell) Shoulder Rotation: 3개 각도 5회씩
-		- Single Leg Kneel Position
-			- Arm Rotation: 2종류 5회씩
-		- Proning Position
-			- Swipe arms while twisting
-
-	- Ankle Stretch
-		- Pump / Circles 
-		- Calf Stretch - Knee straight
-		- Soleus Stretch - Knee bent
-		- Anterior Tibialis Stretch 
-		- Plantar Fascia Stretch - Roll
 
 - Table Position
 	- Table Position: 10 sec (breathe)
