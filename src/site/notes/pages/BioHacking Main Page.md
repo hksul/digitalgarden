@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/bio-hacking-main-page/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/bio-hacking-main-page/","tags":"gardenEntry"}
 ---
 
 
@@ -53,3 +53,6 @@
 	- [[pages/Physical Exam|Physical Exam]]
 
 
+---
+
+[Deep Hedging Presentation](Deep%20Hedging%20Presentation.md)
