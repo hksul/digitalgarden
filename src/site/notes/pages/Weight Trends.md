@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/weight-trends/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/weight-trends/"}
 ---
 
 
