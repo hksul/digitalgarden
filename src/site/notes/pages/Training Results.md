@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/training-results/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/training-results/"}
 ---
 
 
