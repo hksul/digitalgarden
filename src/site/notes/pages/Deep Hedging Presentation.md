@@ -43,6 +43,7 @@ https://arxiv.org/pdf/2103.16409.pdf
 	- Optimal for a trader to be underhedged relative to delta (purchase fewer shares)
 	- Ex) It may be optimal not to hedge if trading costs are too high
 
+
 --
 
 ### Deep Hedging
