@@ -55,4 +55,4 @@
 
 ---
 
-[Deep Hedging Presentation](Deep%20Hedging%20Presentation.md)
+[[pages/Deep Hedging Presentation|Deep Hedging Presentation]]
