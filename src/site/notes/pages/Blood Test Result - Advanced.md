@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/blood-test-result-advanced/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/blood-test-result-advanced/"}
 ---
 
 
