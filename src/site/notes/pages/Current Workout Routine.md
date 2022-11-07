@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/current-workout-routine/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/current-workout-routine/"}
 ---
 
 
