@@ -1,7 +1,9 @@
 ```dataviewjs
 
-let pg1 = dv.pages("#BloodTest").where(b=>b.Triglyceride & b.HDL ).sort(b => b.Date);
+let pg1 = dv.pages("#BloodTest").where(b=>b.Triglyceride && b.HDL ).sort(b => b.Date);
 const data2 = pg1.map(b=>b["Triglyceride"]/b["HDL"]);
+
+
 
 //let path = "/Users/hongkeesul/Dropbox/Research_obsidian/Research";//absolute path to your vault
 //var d3 = require(path+"/assets/d3.v7.min.js");
