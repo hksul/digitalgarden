@@ -1,6 +1,6 @@
 ```dataviewjs
 
-let pg1 = dv.pages("#BloodTest").where(b=>b.TotalCholesterol & b.HDL ).sort(b => b.Date);
+let pg1 = dv.pages("#BloodTest").where(b=>b.TotalCholesterol && b.HDL ).sort(b => b.Date);
 const data2 = pg1.map(b=>b["TotalCholesterol"]/b["HDL"]);
 
 //let path = "/Users/hongkeesul/Dropbox/Research_obsidian/Research";//absolute path to your vault
