@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/blood-test-result-cholesterol/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/blood-test-result-cholesterol/"}
 ---
 
 
