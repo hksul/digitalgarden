@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/blood-test-results/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/blood-test-results/"}
 ---
 
 
