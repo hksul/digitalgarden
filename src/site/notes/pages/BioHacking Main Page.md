@@ -52,8 +52,3 @@
 - 체력인증검사 결과 (2021.6 ~ 2022.7)
 	- [[pages/Physical Exam|Physical Exam]]
 
-
----
-
-[[pages/Deep Hedging Presentation|Deep Hedging Presentation]]
-
