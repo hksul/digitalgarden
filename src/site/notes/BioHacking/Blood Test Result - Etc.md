@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio-hacking/blood-test-result-etc/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/bio-hacking/blood-test-result-etc/"}
 ---
 
 
