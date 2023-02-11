@@ -8,20 +8,20 @@
 - Update: 2022 June
  
  - Table of Contents
-	- [[pages/CGM Results#2022 June CGM|2022 June CGM]]
-		- [[pages/CGM Results#20220609 CGM|2022 6/9]]
-		- [[pages/CGM Results#20220610 CGM|2022 6/10]]
-		- [[pages/CGM Results#20220611 CGM|2022 6/11]]
-		- [[pages/CGM Results#20220612 CGM|2022 6/12]]
-		- [[pages/CGM Results#20220613 CGM|2022 6/13]]
-		- [[pages/CGM Results#20220614 CGM|2022 6/14]]
-		- [[pages/CGM Results#20220615 CGM|2022 6/15]]
-		- [[pages/CGM Results#20220616 CGM|2022 6/16]]
-		- [[pages/CGM Results#20220617 CGM|2022 6/17]]
-		- [[pages/CGM Results#20220618 CGM|2022 6/18]]
-		- [[pages/CGM Results#20220619 CGM|2022 6/19]]
-		- [[pages/CGM Results#20220620 CGM|2022 6/20]]
-		- [[pages/CGM Results#20220621 CGM|2022 6/21]]
+	- [[pages/CGM Results#2022 June CGM\|2022 June CGM]]
+		- [[pages/CGM Results#20220609 CGM\|2022 6/9]]
+		- [[pages/CGM Results#20220610 CGM\|2022 6/10]]
+		- [[pages/CGM Results#20220611 CGM\|2022 6/11]]
+		- [[pages/CGM Results#20220612 CGM\|2022 6/12]]
+		- [[pages/CGM Results#20220613 CGM\|2022 6/13]]
+		- [[pages/CGM Results#20220614 CGM\|2022 6/14]]
+		- [[pages/CGM Results#20220615 CGM\|2022 6/15]]
+		- [[pages/CGM Results#20220616 CGM\|2022 6/16]]
+		- [[pages/CGM Results#20220617 CGM\|2022 6/17]]
+		- [[pages/CGM Results#20220618 CGM\|2022 6/18]]
+		- [[pages/CGM Results#20220619 CGM\|2022 6/19]]
+		- [[pages/CGM Results#20220620 CGM\|2022 6/20]]
+		- [[pages/CGM Results#20220621 CGM\|2022 6/21]]
 	
 
 <div style="page-break-after: always;"></div>
