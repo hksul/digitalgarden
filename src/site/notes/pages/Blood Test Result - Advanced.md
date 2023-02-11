@@ -4,17 +4,17 @@
 
 
 
-[[pages/BloodTest Results|BloodTest Results]]
+[[pages/BloodTest Results\|BloodTest Results]]
 
 
 ### Blood Test Result - Advanced
 - Table of Contents
-	- [[pages/Blood Test Result - Advanced#Phenotypic Model|Phenotypic Model]]
-	- [[pages/Blood Test Result - Advanced#Phenotypic Age|Phenotypic Age]]
-	- [[pages/Blood Test Result - Advanced#Mortality Rate|Mortality Rate]]
-	- [[pages/Blood Test Result - Advanced#Liver Models|Liver Models]]
-	- [[pages/Blood Test Result - Advanced#NAFLD liver fat score NLFS|NAFLD liver fat score NLFS]]
-	- [[pages/Blood Test Result - Advanced#Hepatic steatosis index HSI|Hepatic steatosis index HSI]]
+	- [[pages/Blood Test Result - Advanced#Phenotypic Model\|Phenotypic Model]]
+	- [[pages/Blood Test Result - Advanced#Phenotypic Age\|Phenotypic Age]]
+	- [[pages/Blood Test Result - Advanced#Mortality Rate\|Mortality Rate]]
+	- [[pages/Blood Test Result - Advanced#Liver Models\|Liver Models]]
+	- [[pages/Blood Test Result - Advanced#NAFLD liver fat score NLFS\|NAFLD liver fat score NLFS]]
+	- [[pages/Blood Test Result - Advanced#Hepatic steatosis index HSI\|Hepatic steatosis index HSI]]
 
 
 <div style="page-break-after: always;"></div>
