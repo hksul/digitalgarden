@@ -4,16 +4,16 @@
 
 
 
-[[pages/BloodTest Results|BloodTest Results]]
+[[pages/BloodTest Results\|BloodTest Results]]
 
 
 
 ### Liver Panel
 
 - Table of Contents
-	- [[pages/Blood Test Result - Liver#AST ALT|AST ALT]]
-	- [[pages/Blood Test Result - Liver#ALP|ALP]]
-	- [[pages/Blood Test Result - Liver#GammaGTP|GammaGTP]]
+	- [[pages/Blood Test Result - Liver#AST ALT\|AST ALT]]
+	- [[pages/Blood Test Result - Liver#ALP\|ALP]]
+	- [[pages/Blood Test Result - Liver#GammaGTP\|GammaGTP]]
 
 
 
