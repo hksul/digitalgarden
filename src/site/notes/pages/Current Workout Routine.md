@@ -9,11 +9,11 @@
 - Update: 2022 August
 
 - Table of Contents
-	- [[pages/Current Workout Routine#Pre-Workout Stretch|Pre-Workout Stretch]]
-	- [[pages/Current Workout Routine#1. Weight Training|1. Weight Training]]
-	- [[pages/Current Workout Routine#2. Functional Workout|2. Functional Workout]]
-		- [[pages/Current Workout Routine#Equipment Version (Bulgarian Bag & KettleBell)|Equipment Version (Bulgarian Bag & KettleBell)]]
-		- [[pages/Current Workout Routine#No Equipment Version|No Equipment Version]]
+	- [[pages/Current Workout Routine#Pre-Workout Stretch\|Pre-Workout Stretch]]
+	- [[pages/Current Workout Routine#1. Weight Training\|1. Weight Training]]
+	- [[pages/Current Workout Routine#2. Functional Workout\|2. Functional Workout]]
+		- [[pages/Current Workout Routine#Equipment Version (Bulgarian Bag & KettleBell)\|Equipment Version (Bulgarian Bag & KettleBell)]]
+		- [[pages/Current Workout Routine#No Equipment Version\|No Equipment Version]]
 
 <div style="page-break-after: always;"></div>
 
