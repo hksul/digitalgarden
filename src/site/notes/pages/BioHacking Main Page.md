@@ -19,7 +19,7 @@
 ---
 
 #### Routine / Regimen
-- Stretch (2022.8)
+- Stretch (2023.2)
 	- [[pages/Current Stretch Routine\|Current Stretch Routine]]
 - Workout (2022.8)
 	- [[pages/Current Workout Routine\|Current Workout Routine]]
