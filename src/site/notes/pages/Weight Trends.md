@@ -13,9 +13,9 @@
  - Update: 2022 June
 
 - Table of Contents
-	- [[pages/Weight Trends#2016-2020 Weight History|2016-2020 Weight History]]
-	- [[pages/Weight Trends#2021-2022 Weight History|2021-2022 Weight History]]
-	- [[pages/Weight Trends#2016-Today Weight History| 2016-Today Weight History]]
+	- [[pages/Weight Trends#2016-2020 Weight History\|2016-2020 Weight History]]
+	- [[pages/Weight Trends#2021-2022 Weight History\|2021-2022 Weight History]]
+	- [[pages/Weight Trends#2016-Today Weight History\| 2016-Today Weight History]]
 
 
 
