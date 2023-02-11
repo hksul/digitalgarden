@@ -3,17 +3,17 @@
 ---
 
 
-[[pages/BloodTest Results|BloodTest Results]]
+[[pages/BloodTest Results\|BloodTest Results]]
 
 
 
 ### Cholesterol Panel
 
 - Table of Contents
-	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol|TotalCholesterol]]
-	- [[pages/Blood Test Result - Cholesterol#Triglyceride HDL LDL|Triglyceride HDL LDL]]
-	- [[pages/Blood Test Result - Cholesterol#Triglycerides-to-HDL Ratio|Triglycerides-to-HDL Ratio]]
-	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol-to-HDL Ratio|TotalCholesterol-to-HDL Ratio]]
+	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol\|TotalCholesterol]]
+	- [[pages/Blood Test Result - Cholesterol#Triglyceride HDL LDL\|Triglyceride HDL LDL]]
+	- [[pages/Blood Test Result - Cholesterol#Triglycerides-to-HDL Ratio\|Triglycerides-to-HDL Ratio]]
+	- [[pages/Blood Test Result - Cholesterol#TotalCholesterol-to-HDL Ratio\|TotalCholesterol-to-HDL Ratio]]
 
 
 <div style="page-break-after: always;"></div>
