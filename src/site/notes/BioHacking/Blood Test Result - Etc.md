@@ -4,7 +4,7 @@
 
 
 
-[[pages/BloodTest Results|BloodTest Results]]
+[[pages/BloodTest Results\|BloodTest Results]]
 
 
 
@@ -12,11 +12,11 @@
 
 ### Blood Sugar, HbA1c, Uric Acid, Ferritin & Testosterone
 - Table of Contents
-	- [[BioHacking/Blood Test Result - Etc#BloodSugar|BloodSugar]]
-	- [[BioHacking/Blood Test Result - Etc#HbA1c|HbA1c]]
-	- [[BioHacking/Blood Test Result - Etc#UricAcid|UricAcid]]
-	- [[BioHacking/Blood Test Result - Etc#Ferritin|Ferritin]]
-	- [[BioHacking/Blood Test Result - Etc#Testosterone|Testosterone]]
+	- [[BioHacking/Blood Test Result - Etc#BloodSugar\|BloodSugar]]
+	- [[BioHacking/Blood Test Result - Etc#HbA1c\|HbA1c]]
+	- [[BioHacking/Blood Test Result - Etc#UricAcid\|UricAcid]]
+	- [[BioHacking/Blood Test Result - Etc#Ferritin\|Ferritin]]
+	- [[BioHacking/Blood Test Result - Etc#Testosterone\|Testosterone]]
 
 
 <div style="page-break-after: always;"></div>
