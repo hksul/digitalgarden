@@ -10,14 +10,14 @@
 - Update: 2022 July
 
 - Table of Contents
-	- [[pages/Physical Exam#Fitness Stats|체력인증검사 개요]]
-	- [[pages/Physical Exam#Level 체력인증검사등급|체력인증검사 최종등급]]
-	- [[pages/Physical Exam# BodyFatPercentage & BMI|BodyFatPercentage BMI]]
-	- [[pages/Physical Exam#Weight|Weight]]
-	- [[pages/Physical Exam#Power 순발력 Strength 근력|Power 순발력 Strength 근력]]
-	- [[pages/Physical Exam#Stamina 근지구력 CardioEndurance 심폐지구력|Stamina 근지구력 CardioEndurance 심폐지구력]]
-	- [[pages/Physical Exam#Flexibility 유연성|Flexibility 유연성]]
-	- [[pages/Physical Exam#Agility 민첩성|Agility 민첩성]]
+	- [[pages/Physical Exam#Fitness Stats\|체력인증검사 개요]]
+	- [[pages/Physical Exam#Level 체력인증검사등급\|체력인증검사 최종등급]]
+	- [[pages/Physical Exam# BodyFatPercentage & BMI\|BodyFatPercentage BMI]]
+	- [[pages/Physical Exam#Weight\|Weight]]
+	- [[pages/Physical Exam#Power 순발력 Strength 근력\|Power 순발력 Strength 근력]]
+	- [[pages/Physical Exam#Stamina 근지구력 CardioEndurance 심폐지구력\|Stamina 근지구력 CardioEndurance 심폐지구력]]
+	- [[pages/Physical Exam#Flexibility 유연성\|Flexibility 유연성]]
+	- [[pages/Physical Exam#Agility 민첩성\|Agility 민첩성]]
 
 
 
